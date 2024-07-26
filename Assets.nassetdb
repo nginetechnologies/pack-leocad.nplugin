@@ -1,0 +1,13 @@
+{
+    "5c9a3909-65dc-453a-8216-cf6a97b0f21e": {
+        "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
+        "path": "Package.nplugin",
+        "name": "LeoCAD Assets"
+    },
+    "da7da530-b54d-401b-980e-a7cbf0778b54": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/LeoCAD_Thumb.tex.nasset"
+    },
+    "guid": "8a4c79e4-ac15-e2fd-31d5-5d50bd6c0ec1"
+}
